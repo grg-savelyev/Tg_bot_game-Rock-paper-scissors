@@ -1,0 +1,17 @@
+#  обновление менеджера пакетов
+python.exe -m pip install --upgrade pip
+
+#  библиотека aiogram
+pip install -U --pre aiogram
+
+#  работа с API с помощью библиотеки requests
+Здесь не используется
+pip install requests
+
+#  переменные окружения - 1
+pip install python-dotenv
+
+
+#  переменные окружения - 2 (содержит класс Env)
+pip install environs
+
