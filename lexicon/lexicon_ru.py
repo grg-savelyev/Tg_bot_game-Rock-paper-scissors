@@ -21,3 +21,10 @@ LEXICON_RU: dict[str, str] = {
     'user_won': 'Ты победил! Поздравляю!\n\nДавай сыграем еще?',
     'nobody_won': 'Ничья!\n\nПродолжим?',
     'bot_choice': 'Мой выбор'}
+
+#  Кнопка "Menu"
+LEXICON_COMMANDS_RU: dict[str, str] = {
+                '/help': 'Справка по работе бота',
+                '/support': 'Поддержка',
+                '/contacts': 'Другие способы связи',
+                '/payments': 'Платежи'}
